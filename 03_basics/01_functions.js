@@ -55,3 +55,5 @@ function returnSecondValue(getArray){
 }
 
 console.log(returnSecondValue(myNewArray))
+
+console.log(first)
